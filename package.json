@@ -4,7 +4,7 @@
   "description": "",
   "main": "client.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gtk": "sudo apt-get install libgirepository1.0-dev libwebkitgtk-3.0-dev libgtksourceview-3.0-dev"
   },
   "author": "",
   "license": "ISC",
