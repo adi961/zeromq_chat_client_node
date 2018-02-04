@@ -12,7 +12,7 @@ var ip,
     userName
 
 bonjour.find({ type: 'tcp' }, function (service) {
-    console.log('Found an HTTP server:', service)
+    console.log('Found an chat server:', service)
     if(service.txt.service == 'cpp'){
         ipTextBox.text = service.referer.address
         clPortTextBox.text = service.port
