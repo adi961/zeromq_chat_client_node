@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bonjour": "^3.5.0",
     "electron": "^1.7.12",
     "libui-node": "0.0.12",
     "unix-timestamp": "^0.2.0",
