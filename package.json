@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron": "^1.7.12",
+    "libui-node": "0.0.12",
+    "unix-timestamp": "^0.2.0",
     "zmq": "^2.15.3"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.7.3"
   }
 }
